@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "905649523172",
+    "firebase_url": "https://an-spa-health-default-rtdb.firebaseio.com",
+    "project_id": "an-spa-health",
+    "storage_bucket": "an-spa-health.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905649523172:android:892140862d6eabd7511ff1",
+        "android_client_info": {
+          "package_name": "anspahealthbeauty.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCArdufxul60k_pbcO1T5e2a97VzA3_GAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
